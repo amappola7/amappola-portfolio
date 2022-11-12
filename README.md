@@ -1,5 +1,5 @@
-[![Banner](./assetsReadme/banner.png)](https://github.com/amappola7/amappola-portfolio)
-[![Contact](./assetsReadme/contact.png)](https://github.com/amappola7/amappola-portfolio)
+[![Banner](./assetsReadme/banner.png)](https://amappola7.github.io/amappola-portfolio/)
+[![Contact](./assetsReadme/contact.png)](https://linktr.ee/amappola7)
 [![LinkedIn](./assetsReadme/linkedin.png)](http://www.linkedin.com/in/ana-maria-porras-pinto)
 [![Portfolio](./assetsReadme/portfolio.png)](https://amappola7.github.io/amappola-portfolio/)
 [![C.V.](./assetsReadme/cv.png)](https://drive.google.com/file/d/1qaVduEnYXbclsQTOtB9TVyOachYX16Ys/view?usp=sharing)
