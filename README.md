@@ -5,4 +5,4 @@
 [![C.V.](./assetsReadme/cv.png)](https://drive.google.com/file/d/1qaVduEnYXbclsQTOtB9TVyOachYX16Ys/view?usp=sharing)
 [![Twitter](./assetsReadme/twitter.png)](https://twitter.com/amappola7)
 [![Linktree](./assetsReadme/linktree.png)](https://linktr.ee/amappola7)
-[![Projects](./assetsReadme/click.png)](https://github.com/amappola7/amappola-portfolio)
+[![Projects](./assetsReadme/click.png)](https://amappola7.github.io/amappola-portfolio/)
