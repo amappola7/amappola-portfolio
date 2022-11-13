@@ -1,14 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import { Fragment, useState } from 'react'
 import './App.css'
+import { Home } from './home.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
-
-    </div>
+    <Fragment className="App">
+      <Home/>
+    </Fragment>
   )
 }
 
