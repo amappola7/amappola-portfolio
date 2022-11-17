@@ -2,7 +2,7 @@
 [![Contact](./assetsReadme/contact.png)](https://linktr.ee/amappola7)
 [![LinkedIn](./assetsReadme/linkedin.png)](http://www.linkedin.com/in/ana-maria-porras-pinto)
 [![Portfolio](./assetsReadme/portfolio.png)](https://amappola7.github.io/amappola-portfolio/)
-[![C.V.](./assetsReadme/cv.png)](https://drive.google.com/file/d/1qaVduEnYXbclsQTOtB9TVyOachYX16Ys/view?usp=sharing)
+[![C.V.](./assetsReadme/cv.png)](https://drive.google.com/file/d/1SZAI3zVSXyYMy7I_8m8r5xW_LjK27LEQ/view?usp=sharing)
 [![Twitter](./assetsReadme/twitter.png)](https://twitter.com/amappola7)
 [![Linktree](./assetsReadme/linktree.png)](https://linktr.ee/amappola7)
 [![Projects](./assetsReadme/click.png)](https://amappola7.github.io/amappola-portfolio/)
